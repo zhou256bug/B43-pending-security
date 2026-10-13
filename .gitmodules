@@ -1,0 +1,43 @@
+[submodule "AllatoriCrack"]
+	path = AllatoriCrack
+	url = https://github.com/lqs1848/AllatoriCrack.git
+
+[submodule "Android_InlineHook"]
+	path = Android_InlineHook
+	url = https://gitcode.com/zhuotong/Android_InlineHook.git
+
+[submodule "CacheEmulatorChecker"]
+	path = CacheEmulatorChecker
+	url = https://github.com/Stevenxin/CacheEmulatorChecker.git
+
+[submodule "HookProject"]
+	path = HookProject
+	url = https://github.com/wangluAndroid/HookProject.git
+
+[submodule "KeyAttestation"]
+	path = KeyAttestation
+	url = https://github.com/vvb2060/KeyAttestation.git
+
+[submodule "MagiskDetector"]
+	path = MagiskDetector
+	url = https://github.com/vvb2060/MagiskDetector.git
+
+[submodule "TestHook"]
+	path = TestHook
+	url = https://github.com/ZhangSir/TestHook.git
+
+[submodule "android-inline-hook"]
+	path = android-inline-hook
+	url = https://github.com/bytedance/android-inline-hook.git
+
+[submodule "android-key-attestation"]
+	path = android-key-attestation
+	url = https://github.com/google/android-key-attestation.git
+
+[submodule "cbor-java"]
+	path = cbor-java
+	url = https://github.com/c-rack/cbor-java.git
+
+[submodule "mobrisk-android-sample"]
+	path = mobrisk-android-sample
+	url = https://github.com/trustdecision/mobrisk-android-sample.git
