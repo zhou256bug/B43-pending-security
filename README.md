@@ -1,6 +1,11 @@
 # B43 待处理 — security
 
-父仓库，包含 **11** 个子项目（git submodule，指向 upstream）。
+**11** 项第三方样本目录索引。本仓仅保存路径与 upstream URL 索引，**不再使用 Git submodule**。
+
+- 机器可读清单：`docs/submodule-catalog.tsv`
+- 按需克隆某一条：`git clone <url> <本地目录>`
+
+以下为历史索引（含原 pin 提交短 SHA，仅供参考；以各 upstream 仓库为准）。
 
 ## Submodule 列表
 
@@ -19,8 +24,8 @@
 ## 克隆
 
 ```bash
-git clone --recurse-submodules <本仓库 URL>
-cd security
-git submodule update --init --recursive
+git clone https://github.com/zhou256bug/B43-pending-security.git
+cd B43-pending-security
+# 需要某样本时从下方列表或 docs/submodule-catalog.tsv 取 URL 后自行 git clone
 ```
 
